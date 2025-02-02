@@ -71,7 +71,7 @@
 
                 <div style="padding: 15px;">
                     <label>phone</label>
-                    <input type="number" style="color: black;" name="number" placeholder="write the number" required="">
+                    <input type="number" style="color: black;" name="phone" placeholder="write the number" required="">
                 </div>
 
                 <div style="padding: 15px;">
